@@ -1,0 +1,1 @@
+create table register(name varchar(100), email varchar(100), password varchar(100), city varchar(100));
